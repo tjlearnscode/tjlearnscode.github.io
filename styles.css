@@ -7,7 +7,7 @@ header {
 header>h1 {
     margin: 0;
 }
-section {
+#gallery, #highlights  {
     justify-items: center;
 }
 
@@ -64,5 +64,6 @@ button {
     padding: auto;
     border-radius: 10%;
 }
+
 
 
