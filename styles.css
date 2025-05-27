@@ -41,7 +41,7 @@ h3 {
     font-size: 32px;
     margin: 0;
 }
-p {
+p:not(#subtitle) {
     font-size: 18px;
     color: aliceblue;
 }
